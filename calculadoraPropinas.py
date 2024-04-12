@@ -24,6 +24,7 @@ def tipoPropina(factura):
             return propina, total
         
        
+# pip install --user nombre_del_paquete
 
 
 propina, total = tipoPropina(factura)
